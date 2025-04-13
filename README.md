@@ -25,7 +25,7 @@ An additional sheet in the same file contains **processed subject thresholds ver
 
 ### Raw Data Folder
 
-All raw data—including current/voltage waveforms and subject titration responses—can be found in the folder: high_frequency_PNS_raw_data/
+All raw data—including current/voltage waveforms and subject titration responses—can be found at the following dropbox link: https://www.dropbox.com/scl/fo/6dik1n42jhnrczi9mi5kt/ABVo9UGYQbPaUyNstIToX3E?rlkey=9dhntga0b04ynf59ur0dl3wpz&dl=0. We will upload the data directly to this repository.
 
 Inside this folder, each subject has a subfolder titled in the format: [Subject ID No.]_[Date]_frequency_sweep
 
